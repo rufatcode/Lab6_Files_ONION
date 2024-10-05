@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{8B74E1D1-FD49-4EEB-A012-545A84F441E5}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab6__Files FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab6_Files/Program.cs">
+    <Files>
+      <File FileName="Lab6_Files/Program.cs" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab6_Files" expanded="True">
+            <Node name="Lab6_Files" expanded="True" />
+            <Node name="Lab6_Files.Domain" expanded="True" selected="True" />
+            <Node name="Lab6_Files.Repository" expanded="True" />
+            <Node name="Lab6_Files.Service" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab6__Files.Domain FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Lab6__Files.Service FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Lab6__Files.Repository FirstBuild="True" />
+</Properties>

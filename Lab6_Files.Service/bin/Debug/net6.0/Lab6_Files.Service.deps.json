@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab6_Files.Service/1.0.0": {
+        "dependencies": {
+          "Lab6_Files.Repository": "1.0.0"
+        },
+        "runtime": {
+          "Lab6_Files.Service.dll": {}
+        }
+      },
+      "Lab6_Files.Domain/1.0.0": {
+        "runtime": {
+          "Lab6_Files.Domain.dll": {}
+        }
+      },
+      "Lab6_Files.Repository/1.0.0": {
+        "dependencies": {
+          "Lab6_Files.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Lab6_Files.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab6_Files.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab6_Files.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab6_Files.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

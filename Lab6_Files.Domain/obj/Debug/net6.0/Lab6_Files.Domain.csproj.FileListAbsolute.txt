@@ -1,0 +1,11 @@
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Domain/bin/Debug/net6.0/Lab6_Files.Domain.deps.json
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Domain/bin/Debug/net6.0/Lab6_Files.Domain.dll
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Domain/bin/Debug/net6.0/Lab6_Files.Domain.pdb
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Domain/obj/Debug/net6.0/Lab6_Files.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Domain/obj/Debug/net6.0/Lab6_Files.Domain.AssemblyInfoInputs.cache
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Domain/obj/Debug/net6.0/Lab6_Files.Domain.AssemblyInfo.cs
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Domain/obj/Debug/net6.0/Lab6_Files.Domain.csproj.CoreCompileInputs.cache
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Domain/obj/Debug/net6.0/Lab6_Files.Domain.dll
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Domain/obj/Debug/net6.0/refint/Lab6_Files.Domain.dll
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Domain/obj/Debug/net6.0/Lab6_Files.Domain.pdb
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Domain/obj/Debug/net6.0/ref/Lab6_Files.Domain.dll

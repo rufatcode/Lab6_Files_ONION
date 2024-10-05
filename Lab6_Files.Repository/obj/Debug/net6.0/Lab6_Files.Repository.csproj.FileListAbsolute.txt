@@ -1,0 +1,15 @@
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Repository/bin/Debug/net6.0/Lab6_Files.Repository.deps.json
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Repository/bin/Debug/net6.0/Lab6_Files.Repository.dll
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Repository/bin/Debug/net6.0/Lab6_Files.Repository.pdb
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Repository/bin/Debug/net6.0/Lab6_Files.Domain.dll
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Repository/bin/Debug/net6.0/Lab6_Files.Domain.pdb
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Repository/obj/Debug/net6.0/Lab6_Files.Repository.csproj.AssemblyReference.cache
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Repository/obj/Debug/net6.0/Lab6_Files.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Repository/obj/Debug/net6.0/Lab6_Files.Repository.AssemblyInfoInputs.cache
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Repository/obj/Debug/net6.0/Lab6_Files.Repository.AssemblyInfo.cs
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Repository/obj/Debug/net6.0/Lab6_Files.Repository.csproj.CoreCompileInputs.cache
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Repository/obj/Debug/net6.0/Lab6_Fil.FAE91C8F.Up2Date
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Repository/obj/Debug/net6.0/Lab6_Files.Repository.dll
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Repository/obj/Debug/net6.0/refint/Lab6_Files.Repository.dll
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Repository/obj/Debug/net6.0/Lab6_Files.Repository.pdb
+/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Repository/obj/Debug/net6.0/ref/Lab6_Files.Repository.dll

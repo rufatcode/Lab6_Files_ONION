@@ -1,0 +1,131 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Lab6_Files.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Lab6_Files.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab6_Files.Domain.dll": {}
+        }
+      },
+      "Lab6_Files.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Lab6_Files.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Lab6_Files.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab6_Files.Repository.dll": {}
+        }
+      },
+      "Lab6_Files.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Lab6_Files.Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Lab6_Files.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab6_Files.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab6_Files.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Lab6_Files.Domain/Lab6_Files.Domain.csproj",
+      "msbuildProject": "../Lab6_Files.Domain/Lab6_Files.Domain.csproj"
+    },
+    "Lab6_Files.Repository/1.0.0": {
+      "type": "project",
+      "path": "../Lab6_Files.Repository/Lab6_Files.Repository.csproj",
+      "msbuildProject": "../Lab6_Files.Repository/Lab6_Files.Repository.csproj"
+    },
+    "Lab6_Files.Service/1.0.0": {
+      "type": "project",
+      "path": "../Lab6_Files.Service/Lab6_Files.Service.csproj",
+      "msbuildProject": "../Lab6_Files.Service/Lab6_Files.Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Lab6_Files.Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/rufat/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files/Lab6_Files.csproj",
+      "projectName": "Lab6_Files",
+      "projectPath": "/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files/Lab6_Files.csproj",
+      "packagesPath": "/Users/rufat/.nuget/packages/",
+      "outputPath": "/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/rufat/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Service/Lab6_Files.Service.csproj": {
+              "projectPath": "/Volumes/Mac/PB-402/Lab6_Files/Lab6_Files.Service/Lab6_Files.Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
